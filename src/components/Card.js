@@ -6,7 +6,7 @@ function Card() {
             <div className="content">
                 <img src={QRCode} alt="qrcode"></img>
                 <div className="desp">
-                    <h2>Improve your front-end skills by building projects</h2>
+                    <h1>Improve your front-end skills by building projects</h1>
                     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
                 </div>
             </div>
